@@ -5,7 +5,7 @@ Hi there, I'm Saadat Khalid Awan 👋<br>Aspiring Data Scientist | Problem Solve
 <br>
 My primary focus is on machine learning, data analysis, and predictive modeling, and I'm constantly looking for ways to expand my knowledge and skills in these areas. 
 <br>
-I'm excited about the possibilities that data science offers and look forward to exploring new opportunities and challenges in this field.<br><br>## Skills<br>- Data Analysis<br>- Machine Learning<br>- Data Visualization<br>- Python<br>- SQL, Pandas, NumPy<br>- Jupyter Notebooks<br> ![](https://rishavanand.github.io/static/images/greetings.gif) <img src="https://rishavanand.github.io/static/images/greetings.gif">
+I'm excited about the possibilities that data science offers and look forward to exploring new opportunities and challenges in this field.<br><br>## Skills<br>- Data Analysis<br>- Machine Learning<br>- Data Visualization<br>- Python<br>- SQL, Pandas, NumPy<br>- Jupyter Notebooks<br> [![](https://rishavanand.github.io/static/images/greetings.gif)]
 
 
 ## 🌐 Socials:
