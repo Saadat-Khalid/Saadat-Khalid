@@ -1,4 +1,4 @@
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO7d3ljEPuz7X-94iOveMPqcZGUDvqHza5gKGb0EXx3KP8awTTh2aDoeh0EoQ6VkDAooiI_nke8kthrYjUnyaAcXQSXrja1kKnPnjz2GgtGRSfHY12yj-PsZdB7rUourupBlT_QRHiZzN-km4iR5Mb7vWLn8-JozYMtEdmhkXfC-SIgQSnPBPL-ruEdtuq/s1526/Data%20Scientist.gif)(https://saadatkhalid.bio.link/)
+[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO7d3ljEPuz7X-94iOveMPqcZGUDvqHza5gKGb0EXx3KP8awTTh2aDoeh0EoQ6VkDAooiI_nke8kthrYjUnyaAcXQSXrja1kKnPnjz2GgtGRSfHY12yj-PsZdB7rUourupBlT_QRHiZzN-km4iR5Mb7vWLn8-JozYMtEdmhkXfC-SIgQSnPBPL-ruEdtuq/s1526/Data%20Scientist.gif)]
 <h1 align="center">Hi 👋, I'm Saadat Khalid Awan</h1>
 <h3 align="center">Aspiring Data Scientist from Pakistan</h3>
 <img align="right" alt="Data Scientist" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
