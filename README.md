@@ -3,7 +3,9 @@
 # 💫 About Me:
 Hi there, I'm Saadat Khalid Awan 👋<br>Aspiring Data Scientist | Problem Solver | Lifelong Learner<br><br>🌱 I’m currently learning Data Science<br><br>👨‍💻 All of my projects are available at https://saadatkhalid.bio.link/<br><br>📝 I regularly write articles on https://thesaadat.blogspot.com/<br><br>📫 How to reach me me.saadi96@gmail.com<br><br>I'm passionate about turning data into meaningful insights and driving informed decisions. With a solid foundation in statistics and machine learning, I'm always eager to take on new challenges.<br><br>## Skills<br>- Data Analysis<br>- Machine Learning<br>- Data Visualization<br>- Python<br>- SQL, Pandas, NumPy<br>- Jupyter Notebooks<br>
 
-<img alt="Saadat Khalid Awan - Data Scientist" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="512px">
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
 
 
 ## 🌐 Socials:
