@@ -1,10 +1,7 @@
 [![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO7d3ljEPuz7X-94iOveMPqcZGUDvqHza5gKGb0EXx3KP8awTTh2aDoeh0EoQ6VkDAooiI_nke8kthrYjUnyaAcXQSXrja1kKnPnjz2GgtGRSfHY12yj-PsZdB7rUourupBlT_QRHiZzN-km4iR5Mb7vWLn8-JozYMtEdmhkXfC-SIgQSnPBPL-ruEdtuq/s1526/Data%20Scientist.gif)]
 
 # 💫 About Me:
-Hi there, I'm Saadat Khalid Awan 👋<br>Aspiring Data Scientist | Problem Solver | Lifelong Learner<br><br>🌱 I’m currently learning Data Science<br><br>👨‍💻 All of my projects are available at https://saadatkhalid.bio.link/<br><br>📝 I regularly write articles on https://thesaadat.blogspot.com/<br><br>📫 How to reach me me.saadi96@gmail.com<br><br>I'm passionate about turning data into meaningful insights and driving informed decisions. With a solid foundation in statistics and machine learning, I'm always eager to take on new challenges.<br><br>## Skills<br>- Data Analysis<br>- Machine Learning<br>- Data Visualization<br>- Python<br>- SQL, Pandas, NumPy<br>- Jupyter Notebooks<br>
-
-
-![Data Scientist](https://rishavanand.github.io/static/images/greetings.gif)
+Hi there, I'm Saadat Khalid Awan 👋<br>Aspiring Data Scientist | Problem Solver | Lifelong Learner<br><br>![](https://rishavanand.github.io/static/images/greetings.gif) 🌱 I’m currently learning Data Science<br><br>👨‍💻 All of my projects are available at https://saadatkhalid.bio.link/<br><br>📝 I regularly write articles on https://thesaadat.blogspot.com/<br><br>📫 How to reach me me.saadi96@gmail.com<br><br>I'm passionate about turning data into meaningful insights and driving informed decisions. With a solid foundation in statistics and machine learning, I'm always eager to take on new challenges.<br><br>## Skills<br>- Data Analysis<br>- Machine Learning<br>- Data Visualization<br>- Python<br>- SQL, Pandas, NumPy<br>- Jupyter Notebooks<br>
   
 
 
@@ -26,10 +23,6 @@ Hi there, I'm Saadat Khalid Awan 👋<br>Aspiring Data Scientist | Problem Solve
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Saadat-Khalid&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Saadat-Khalid&icon=2&color=6)](https://visitcount.itsvg.in)
 
