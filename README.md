@@ -1,8 +1,11 @@
 [![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO7d3ljEPuz7X-94iOveMPqcZGUDvqHza5gKGb0EXx3KP8awTTh2aDoeh0EoQ6VkDAooiI_nke8kthrYjUnyaAcXQSXrja1kKnPnjz2GgtGRSfHY12yj-PsZdB7rUourupBlT_QRHiZzN-km4iR5Mb7vWLn8-JozYMtEdmhkXfC-SIgQSnPBPL-ruEdtuq/s1526/Data%20Scientist.gif)]
 
 # 💫 About Me:
-Hi there, I'm Saadat Khalid Awan 👋<br>Aspiring Data Scientist | Problem Solver | Lifelong Learner<br><br>![](https://rishavanand.github.io/static/images/greetings.gif) 🌱 I’m currently learning Data Science<br><br>👨‍💻 All of my projects are available at https://saadatkhalid.bio.link/<br><br>📝 I regularly write articles on https://thesaadat.blogspot.com/<br><br>📫 How to reach me me.saadi96@gmail.com<br><br>I'm passionate about turning data into meaningful insights and driving informed decisions. With a solid foundation in statistics and machine learning, I'm always eager to take on new challenges.<br><br>## Skills<br>- Data Analysis<br>- Machine Learning<br>- Data Visualization<br>- Python<br>- SQL, Pandas, NumPy<br>- Jupyter Notebooks<br>
-  
+Hi there, I'm Saadat Khalid Awan 👋<br>Aspiring Data Scientist | Problem Solver | Lifelong Learner<br><br> 🌱 I’m currently learning Data Science<br><br>👨‍💻 All of my projects are available at https://saadatkhalid.bio.link/<br><br>📝 I regularly write articles on https://thesaadat.blogspot.com/<br><br>📫 How to reach me me.saadi96@gmail.com<br><br> I'm a software engineer with a keen interest in data science. I hold a BS degree in Software Engineering and am currently learning about the field of data science. 
+<br>
+My primary focus is on machine learning, data analysis, and predictive modeling, and I'm constantly looking for ways to expand my knowledge and skills in these areas. 
+<br>
+I'm excited about the possibilities that data science offers and look forward to exploring new opportunities and challenges in this field.<br><br>## Skills<br>- Data Analysis<br>- Machine Learning<br>- Data Visualization<br>- Python<br>- SQL, Pandas, NumPy<br>- Jupyter Notebooks<br> ![](https://rishavanand.github.io/static/images/greetings.gif) <img src="https://rishavanand.github.io/static/images/greetings.gif">
 
 
 ## 🌐 Socials:
