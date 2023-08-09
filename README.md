@@ -29,4 +29,12 @@ I'm excited about the possibilities that data science offers and look forward to
 ---
 [![](https://visitcount.itsvg.in/api?id=Saadat-Khalid&icon=2&color=6)](https://visitcount.itsvg.in)
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Saadat-Khalid/Saadat-Khalid/output/snake.svg" alt="Snake animation" />
+
+###
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
