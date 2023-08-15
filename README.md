@@ -1,7 +1,7 @@
 [![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO7d3ljEPuz7X-94iOveMPqcZGUDvqHza5gKGb0EXx3KP8awTTh2aDoeh0EoQ6VkDAooiI_nke8kthrYjUnyaAcXQSXrja1kKnPnjz2GgtGRSfHY12yj-PsZdB7rUourupBlT_QRHiZzN-km4iR5Mb7vWLn8-JozYMtEdmhkXfC-SIgQSnPBPL-ruEdtuq/s1526/Data%20Scientist.gif)]
 
 # 💫 About Me:
-Hi there, I'm Saadat Khalid Awan 👋<br>Aspiring Data Scientist | Problem Solver | Lifelong Learner<br><br> 🌱 I’m currently learning Data Science<br><br>👨‍💻 All of my projects are available at https://saadatkhalid.bio.link/<br><br>📝 I regularly write articles on https://thesaadat.blogspot.com/<br><br>📫 How to reach me me.saadi96@gmail.com<br><br> I'm a software engineer with a keen interest in data science. I hold a BS degree in Software Engineering and am currently learning about the field of data science. 
+Hi there, I'm Saadat Khalid Awan 👋<br>Aspiring Data Scientist | Problem Solver | Lifelong Learner<br><br> 🌱 I’m currently learning Data Science<br><br>👨‍💻 All of my projects/info are available at https://saadatkhalid.bio.link/<br><br>📝 I regularly write articles on https://thesaadat.blogspot.com/<br><br>📫 How to reach me me.saadi96@gmail.com<br><br> I'm a software engineer with a keen interest in data science. I hold a BS degree in Software Engineering and am currently learning about the field of data science. 
 <br>
 My primary focus is on machine learning, data analysis, and predictive modeling, and I'm constantly looking for ways to expand my knowledge and skills in these areas. 
 <br>
@@ -30,11 +30,3 @@ I'm excited about the possibilities that data science offers and look forward to
 [![](https://visitcount.itsvg.in/api?id=Saadat-Khalid&icon=2&color=6)](https://visitcount.itsvg.in)
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Saadat-Khalid/Saadat-Khalid/output/snake.svg" alt="Snake animation" />
-
-###
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
